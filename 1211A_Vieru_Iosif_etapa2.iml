@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/PaooGameEtapa2/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/PaooGameEtapa2/src" isTestSource="false" />
+    </content>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/PaooGameEtapa2/res/database/sqlite-jdbc-3.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/PaooGameEtapa2/res/database/sqlite-jdbc-3.7.2.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sqlite-jdbc-3.7.2" level="project" />
+  </component>
+</module>

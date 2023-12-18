@@ -1,0 +1,16 @@
+
+------------------
+
++ TODO:
+        - IMMEDIATE:
+        - death scene
+        - BUG FIXES:
+                - de refacut texturile si de fixat coliziunea.
+                - de reparat harta pe liniile 19-20, 29-30.
+
+- TODO:
+        - LATER:
+        - MENIU -> options, new game, hall of fame, exit game.
+        - alte nivele
+
+------------------

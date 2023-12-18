@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="1211A_Vieru_Iosif_etapa2.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/1211A_Vieru_Iosif_etapa2_jar</output-path>
+    <root id="archive" name="1211A_Vieru_Iosif_etapa2.jar">
+      <element id="module-output" name="1211A_Vieru_Iosif_etapa2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/PaooGameEtapa2/res/database/sqlite-jdbc-3.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
