@@ -84,7 +84,7 @@ public class Assets
         //tier 3
         SpriteSheet enemyTier3SheetR = new SpriteSheet(ImageLoader.LoadImage("/textures/EnemyBOSS/Gunner_Black_Run.png"));
         SpriteSheet enemyTier3SheetL = new SpriteSheet(ImageLoader.LoadImage("/textures/EnemyBOSS/Gunner_Black_Run_Left.png"));
-        SpriteSheet enemyTier3DeathSheet = new SpriteSheet(ImageLoader.LoadImage("/textures/EnemyBoss/Gunner_Black_Death.png"));
+        SpriteSheet enemyTier3DeathSheet = new SpriteSheet(ImageLoader.LoadImage("/textures/EnemyBOSS/Gunner_Black_Death.png"));
 
         //coin spritesheet
         SpriteSheet coinSheet = new SpriteSheet(ImageLoader.LoadImage("/textures/coin.png"));
